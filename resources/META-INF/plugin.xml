@@ -2,10 +2,10 @@
   <id>com.zhengrenzhe.github-drak-theme</id>
   <name>Github Dark theme</name>
   <version>1.0</version>
-  <vendor email="zhengrenzhe.niujie@gmail.com" url="https://zhengrenzhe.com">Renzhe Zheng</vendor>
+  <vendor email="zhengrenzhe.niujie@gmail.com" url="https://github.com/zhengrenzhe/GithubDrakTheme">Renzhe Zheng</vendor>
 
   <description><![CDATA[
-      Github Dark theme
+      Github Dark theme based on Github 2020 dark mode colors
     ]]></description>
 
   <change-notes><![CDATA[
