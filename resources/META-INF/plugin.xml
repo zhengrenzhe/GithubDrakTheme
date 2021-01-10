@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.zhengrenzhe.github-drak-theme</id>
   <name>Github Dark theme</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="zhengrenzhe.niujie@gmail.com" url="https://github.com/zhengrenzhe/GithubDrakTheme">Renzhe Zheng</vendor>
 
   <description><![CDATA[
