@@ -1,0 +1,16 @@
+{
+  "name": "GithubDarkTheme",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/GithubDarkTheme.xml",
+  "ui": {
+    "*": {
+      "background": "#0d1117",
+      "foreground": "#c9d1d9",
+      "inactiveBackground": "#0d1117"
+    },
+    "EditorTabs.underlineColor": "#f9826c",
+    "EditorTabs.underlinedTabBackground": "#161b22",
+    "Editor.background": "#0d1117"
+  }
+}
